@@ -1,6 +1,6 @@
 # Hope, you'are alright!
 
-> I am Jamshid Jurakulov,  known as "xelopsys".  20 y.o enthusiast programmer and entrepreneur who is eager to find solutions to the problem.  With 3+ years of experience in Software development, I managed to accomplish different projects with success stories.
+> I am Jamshid Jurakulov,  known as "xelopsys".  20 y.o enthusiast programmer and entrepreneur who is eager to find solutions to the problem.  Since 2020 year in Software development, I managed to accomplish different projects with success stories.
 > Trying to make change happen.
 
 <details>
