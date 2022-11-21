@@ -1,6 +1,6 @@
 # Hope, you'are alright!
 
-> I am Jamshid Jurakulov,  known as "xelopsys".  20 y.o enthusiast programmer and entrepreneur who is eager to find solutions to the problem.  Since 2020 year in Software development, I managed to accomplish different projects with success stories.
+> I am Jamshid Jurakulov,  known as "xelopsys".  20 y.o enthusiast programmer and entrepreneur who is eager to find solutions to the problem.  Since 2020 year in Software development.
 > Trying to make change happen.
 
 <details>
@@ -40,6 +40,10 @@ Here are list of the skills I have experience with.
     <br/>
   - ReactJS
     <br/>
+  - React query
+    <br/>
+  - Redux toolkit
+    <br/>
   - NextJS
     <br/>
   - React Router DOM
@@ -67,6 +71,10 @@ Here are list of the skills I have experience with.
   - TypeScript
     <br/>
   - MongoDB/Mongoose  
+    <br/>
+  - PostgreSql  
+    <br/>
+  - Docker  
     <br/>
   - etc.
 
